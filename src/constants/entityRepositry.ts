@@ -1,0 +1,12 @@
+export const adminRepositry = 'ADMIN_REPOSITORY';
+export const levelRepositry = 'LEVEL_REPOSITORY';
+export const subjectRepositry = 'SUBJECT_REPOSITORY';
+export const timezoneRepositry = 'TIMEZONE_REPOSITORY';
+export const dayRepositry = 'DAY_REPOSITORY';
+export const studentRepositry = 'STUDENT_REPOSITORY';
+export const teacherRepositry = 'STUDENT_REPOSITORY';
+export const teacherSubjectRepositry = 'STUDENT_SUBJECT_REPOSITORY';
+export const availabilityRepositry = 'AVAILABILITY_REPOSITORY';
+export const bookingRepositry = 'BOOKING_REPOSITORY';
+export const personRepositry = 'PERSON_REPOSITORY';
+export const baiedBalanceRepositry = 'BaiedBalance_REPOSITORY';
